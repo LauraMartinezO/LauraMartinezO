@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura Martínez</h1>
-<h3 align="center">Software Engineering Student at Icesi University</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on an **Analytics Dashboard**
-
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning about **Cloud Computing**
 
 - 📫 How to reach me **lauramartinezo182@gmail.com**
 
